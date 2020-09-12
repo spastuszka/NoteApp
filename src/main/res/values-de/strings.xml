@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notizbuch</string>
+    <string name="add_note">Notiz hinzufügen</string>
+    <string name="title_hint">Notentitel eingeben</string>
+    <string name="des_hint">Beschreibung eingeben</string>
+</resources>

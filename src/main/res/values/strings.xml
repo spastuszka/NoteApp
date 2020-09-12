@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="add_note">Add note</string>
+    <string name="title_hint">Enter note title</string>
+    <string name="des_hint">Enter description</string>
+</resources>
